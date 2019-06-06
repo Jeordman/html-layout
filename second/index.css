@@ -44,9 +44,7 @@ height: 25vh;
     margin-top: 30px;
     height: 150px;
     background: rgb(245, 245, 196);
-    box-shadow: 1px 1px 2px 4px;
-    -moz-box-shadow: 1px 1px 2px 4px;
-    -webkit-box-shadow: 1px 1px 2px 4px;
+    box-shadow: 10px 8px 10px 1px;
 }
 
 .bottom-section{
@@ -56,4 +54,8 @@ height: 25vh;
     margin: 0 auto;
     margin-top: 30px;
     text-align: center;
+}
+
+#text{
+    line-height: 300px
 }

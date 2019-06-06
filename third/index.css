@@ -1,0 +1,50 @@
+.box1{
+background: lightgray;
+width: auto;
+height: 20vh;
+}
+
+.smallblue{
+    background: rgb(30, 150, 190);
+    width: 10vh;
+    height: 10vh;
+    margin: 40px 10px 10px 15px;
+    display: inline-block;
+}
+
+.box2{
+    background: white;
+    width: auto;
+    height: 30vh;
+    margin: 0 auto;
+    margin-top: 30px;
+    text-align: center;
+}
+
+#text{
+    line-height: 60px;
+}
+
+.box3{
+    background: rgb(44, 44, 151);
+    width: auto;
+    height: 20vh;
+}
+
+.box4{
+    background: rgb(78, 194, 223);
+    width: auto;
+    height: 20vh;
+}
+
+.box5{
+    background: rgb(133, 187, 71);
+    width: auto;
+    height: 20vh;
+}
+
+.box6{
+    background: rgb(216, 205, 57);
+    width: auto;
+    height: 20vh;
+}
