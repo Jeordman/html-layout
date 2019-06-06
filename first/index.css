@@ -1,0 +1,30 @@
+.header {
+    width: 190vh;
+    height: 10vh;
+    background: #555555; 
+}
+
+.content-left{
+    width: 15vh;
+    height: 96vh;
+    background: #dddddd;
+    float: left;
+}
+
+
+.bottom {
+    background: black;
+    width: 170vh;
+    height: 10vh;
+    margin-top: 86vh
+}
+
+.content-right{
+    width: 15vh;
+    height: 96vh;
+    background: #dddddd;
+    float: right;
+}
+
+
+
